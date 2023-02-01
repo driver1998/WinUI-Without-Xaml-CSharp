@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinUITestBedNet", "WinUITestBedNet\WinUITestBedNet\WinUITestBedNet.csproj", "{6D981295-F73F-473F-8C5E-33D7F38F7B90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D981295-F73F-473F-8C5E-33D7F38F7B90}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{6D981295-F73F-473F-8C5E-33D7F38F7B90}.Debug|ARM64.Build.0 = Debug|ARM64
+		{6D981295-F73F-473F-8C5E-33D7F38F7B90}.Debug|x64.ActiveCfg = Debug|x64
+		{6D981295-F73F-473F-8C5E-33D7F38F7B90}.Debug|x64.Build.0 = Debug|x64
+		{6D981295-F73F-473F-8C5E-33D7F38F7B90}.Debug|x86.ActiveCfg = Debug|x86
+		{6D981295-F73F-473F-8C5E-33D7F38F7B90}.Debug|x86.Build.0 = Debug|x86
+		{6D981295-F73F-473F-8C5E-33D7F38F7B90}.Release|ARM64.ActiveCfg = Release|ARM64
+		{6D981295-F73F-473F-8C5E-33D7F38F7B90}.Release|ARM64.Build.0 = Release|ARM64
+		{6D981295-F73F-473F-8C5E-33D7F38F7B90}.Release|x64.ActiveCfg = Release|x64
+		{6D981295-F73F-473F-8C5E-33D7F38F7B90}.Release|x64.Build.0 = Release|x64
+		{6D981295-F73F-473F-8C5E-33D7F38F7B90}.Release|x86.ActiveCfg = Release|x86
+		{6D981295-F73F-473F-8C5E-33D7F38F7B90}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5D3F674-D040-4DF6-86BB-E4E86CE67FF9}
+	EndGlobalSection
+EndGlobal
